@@ -1,5 +1,4 @@
 # ACII_Art
-This program runs in the terminal!
 Enter the relative path of the image you wish to transform into ACII art.
 A text file holding the masterpiece,  called "ascii_image.txt", will be saved in the same directory as the program.
 
